@@ -25,3 +25,8 @@ Text/terminal-based plotting:
 - [UnicodePlots.jl](https://github.com/Evizero/UnicodePlots.jl)
 - [Hinton.jl](https://github.com/ninjin/Hinton.jl) (also outputs vector graphics)
 - [ImageTerm.jl](https://github.com/meggart/ImageTerm.jl)
+
+Graph layout / visualization:
+- [GraphViz.jl](https://github.com/Keno/GraphViz.jl)
+- [TikzGraphs.jl](https://github.com/sisl/TikzGraphs.jl)
+- [GraphLayout.jl](https://github.com/IainNZ/GraphLayout.jl)
